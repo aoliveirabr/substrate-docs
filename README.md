@@ -3,7 +3,7 @@
     <img alt="Substrate Logo" src="static/img/sub.gif" width="70%" />
   </a>
 </h1>
-<h1 align="center"> Substrate Developer Hub </h1>
+<h1 align="center"> Substrate Hub Brasil</h1>
 <h3 align="center"> https://docs.substrate.io/ </h3>
 <br/>
 
