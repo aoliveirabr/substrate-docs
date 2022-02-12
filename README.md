@@ -10,7 +10,7 @@
 
 <!-- Description -->
 
-Esse repositório server para tradução da documentação do framework blockchain  **[Substrate](https://substrate.io)** em língua Portuguesa.
+Esse repositório server para tradução da documentação do framework blockchain  **[Substrate](https://substrate.io)** em Português.
 
 ## Contributing
 
