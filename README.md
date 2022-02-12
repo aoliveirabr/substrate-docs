@@ -4,19 +4,13 @@
   </a>
 </h1>
 <h1 align="center"> Substrate Hub Brasil</h1>
-<h3 align="center"> https://docs.substrate.io/ </h3>
+<h3 align="center">Documentação Original: https://docs.substrate.io/ </h3>
 <br/>
 
-<!-- Badges -->
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/42dec01f-3723-4828-9f01-45ac5b3c8a11/deploy-status)](https://app.netlify.com/sites/substrate-docs/deploys) ![linkcheck workflow](https://github.com/substrate-developer-hub/substrate-docs/actions/workflows/check-links.yml/badge.svg) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://docs.substrate.io/v3/contribute/style-guide/) [![Matrix](https://img.shields.io/matrix/frontier:matrix.org)](https://matrix.to/#/#substrate-technical:matrix.org)
 
 <!-- Description -->
 
-This repository serves as the **developer hub** for the **[Substrate](https://substrate.io)** blockchain
-framework. The docs are written in [MDX](https://mdxjs.com/) format an extension of
-[markdown](https://www.markdownguide.org/), processed by [Gatsby](https://www.gatsbyjs.com/), and
-published to https://docs.substrate.io/ .
+Esse repositório server para tradução da documentação do framework blockchain  **[Substrate](https://substrate.io)** em língua Portuguesa.
 
 ## Contributing
 
