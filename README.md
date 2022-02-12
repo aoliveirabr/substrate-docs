@@ -14,8 +14,7 @@ Esse repositório server para tradução da documentação do framework blockcha
 
 ## Security
 
-Please report _security_ bugs as stated in the [`static/security.txt` file](static/security.txt) in
-this repository.
+Por favor, reporte bugs de segurança conforme declarado no arquivo [`static/security.txt` file](static/security.txt) para a Parity Technologies. 
 
 ## License
 
